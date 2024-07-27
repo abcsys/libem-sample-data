@@ -1,0 +1,108 @@
+{"cluster_id": 0, "beer_name": "Sanibel Red Island Ale", "brew_factory_name": "Point Ybel Brewing Company", "style": "American Amber / Red Ale", "abv": "5.60 %"}
+{"cluster_id": 0, "beer_name": "Point Ybel Sanibel Red Island Ale", "brew_factory_name": "Point Ybel Brewing Company", "style": "Irish Ale", "abv": "5.60 %"}
+{"cluster_id": 1, "beer_name": "Poor Richard 's Ale", "brew_factory_name": "Dry Dock Brewing Co. .", "style": "American Amber / Red Ale", "abv": "6.50 %"}
+{"cluster_id": 1, "beer_name": "21st Amendment Poor Richards Ale", "brew_factory_name": "21st Amendment Brewery", "style": "Traditional Ale", "abv": "7 %"}
+{"cluster_id": 2, "beer_name": "Peak Organic The Maple Collaboration", "brew_factory_name": "Peak Organic Brewing Company", "style": "American Amber / Red Ale", "abv": "7.00 %"}
+{"cluster_id": 2, "beer_name": "Peak Organic The Maple Collaboration", "brew_factory_name": "Shipyard Brewing Company", "style": "Amber Ale", "abv": "6.70 %"}
+{"cluster_id": 3, "beer_name": "Royal Amber Ale", "brew_factory_name": "Hops Grillhouse & Brewery", "style": "American Amber / Red Ale", "abv": "4.50 %"}
+{"cluster_id": 3, "beer_name": "Kalamazoo Royal Amber Ale", "brew_factory_name": "Bells Brewery", "style": "Amber Ale", "abv": ""}
+{"cluster_id": 4, "beer_name": "The Gentle Mongoose", "brew_factory_name": "Holy City Brewing", "style": "American Amber / Red Ale", "abv": "6.90 %"}
+{"cluster_id": 4, "beer_name": "Holy City The Gentle Mongoose", "brew_factory_name": "Holy City Brewing", "style": "Amber Ale", "abv": "6.90 %"}
+{"cluster_id": 5, "beer_name": "Cow Catcher Red", "brew_factory_name": "Mountain Town Station Brewing Co. & Steakhouse", "style": "American Amber / Red Ale", "abv": ""}
+{"cluster_id": 5, "beer_name": "Mountain Town Cow Catcher Red Ale", "brew_factory_name": "Mountain Town Brewing Company", "style": "Amber Ale", "abv": "5.80 %"}
+{"cluster_id": 6, "beer_name": "Kuhnhenn Extraneous Ale", "brew_factory_name": "Kuhnhenn Brewing Company", "style": "American Barleywine", "abv": "17.00 %"}
+{"cluster_id": 6, "beer_name": "Kuhnhenn Extraneous Ale", "brew_factory_name": "Kuhnhenn Brewing", "style": "Barley Wine", "abv": "17.50 %"}
+{"cluster_id": 7, "beer_name": "Ballistic Brewing Co. - Gorgon Red Ale", "brew_factory_name": "Indian Wells Brewing Company", "style": "American Amber / Red Ale", "abv": "5.50 %"}
+{"cluster_id": 7, "beer_name": "Ballistic Brewing Gorgon Red Ale", "brew_factory_name": "Indian Wells Brewing", "style": "Amber Ale", "abv": "5.50 %"}
+{"cluster_id": 8, "beer_name": "Hearthstone Red Rye Ale", "brew_factory_name": "Hearthstone Brewery", "style": "American Amber / Red Ale", "abv": "5.00 %"}
+{"cluster_id": 8, "beer_name": "Hearthstone Red Rye Ale", "brew_factory_name": "Hearthstone Brewery", "style": "Specialty Grain", "abv": "5 %"}
+{"cluster_id": 9, "beer_name": "River Otter Ale", "brew_factory_name": "Union Station Brewery", "style": "American Amber / Red Ale", "abv": "5.10 %"}
+{"cluster_id": 9, "beer_name": "Sacramento River Otter Ale", "brew_factory_name": "Sacramento Brewing Company", "style": "English Pale Ale", "abv": "5.50 %"}
+{"cluster_id": 10, "beer_name": "Freedom Soho Red", "brew_factory_name": "Freedom Brewery Ltd", "style": "American Amber / Red Ale", "abv": "4.70 %"}
+{"cluster_id": 10, "beer_name": "Freedom Soho Red", "brew_factory_name": "Freedom", "style": "Amber Lager/Vienna", "abv": "4.70 %"}
+{"cluster_id": 11, "beer_name": "Heavyweight Ticklefight Champion Of The World", "brew_factory_name": "Solemn Oath Brewery", "style": "American Barleywine", "abv": "12.00 %"}
+{"cluster_id": 11, "beer_name": "Solemn Oath Heavyweight Ticklefight Champion of the World", "brew_factory_name": "Solemn Oath Brewery", "style": "Barley Wine", "abv": "12 %"}
+{"cluster_id": 12, "beer_name": "Neudorf Red Ale", "brew_factory_name": "Brasserie Bendorf", "style": "American Amber / Red Ale", "abv": ""}
+{"cluster_id": 12, "beer_name": "Bendorf Neudorf Red Ale", "brew_factory_name": "Bendorf", "style": "Irish Ale", "abv": "6 %"}
+{"cluster_id": 13, "beer_name": "Red 's On Vacation", "brew_factory_name": "Barley John 's Brew Pub", "style": "American Amber / Red Ale", "abv": "5.44 %"}
+{"cluster_id": 13, "beer_name": "Barley Johns Reds on Vacation", "brew_factory_name": "Barley Johns Brew Pub", "style": "Amber Ale", "abv": "5.44 %"}
+{"cluster_id": 14, "beer_name": "Old Cellar Dweller", "brew_factory_name": "Driftwood Brewery", "style": "American Barleywine", "abv": "11.60 %"}
+{"cluster_id": 14, "beer_name": "Driftwood Old Cellar Dweller Barleywine", "brew_factory_name": "Driftwood Brewery &#40; Canada &#41;", "style": "Barley Wine", "abv": "14 %"}
+{"cluster_id": 15, "beer_name": "Sons Of Anarchy Amber Ale", "brew_factory_name": "Sudwerk Brewing Company", "style": "American Amber / Red Ale", "abv": "4.70 %"}
+{"cluster_id": 15, "beer_name": "Sudwerk Sons Of Anarchy Amber Ale", "brew_factory_name": "Sudwerk Brewing Company", "style": "Amber Ale", "abv": "4.70 %"}
+{"cluster_id": 16, "beer_name": "Eldred Rock Amber", "brew_factory_name": "Haines Brewing Company", "style": "American Amber / Red Ale", "abv": "5.00 %"}
+{"cluster_id": 16, "beer_name": "Haines Eldred Rock Amber", "brew_factory_name": "Haines Brewing Co. .", "style": "Amber Ale", "abv": "5 %"}
+{"cluster_id": 17, "beer_name": "My Hoppy Valentine", "brew_factory_name": "Excel Brewing Company", "style": "American Amber / Red Ale", "abv": "6.50 %"}
+{"cluster_id": 17, "beer_name": "Excel My Hoppy Valentine", "brew_factory_name": "Excel Brewing Company", "style": "Amber Ale", "abv": "6.50 %"}
+{"cluster_id": 18, "beer_name": "Belle Gueule Rousse", "brew_factory_name": "Brasseurs R.J.", "style": "American Amber / Red Ale", "abv": "5.20 %"}
+{"cluster_id": 18, "beer_name": "Belle Gueule Rousse", "brew_factory_name": "Brasseurs RJ", "style": "Amber Lager/Vienna", "abv": "5.20 %"}
+{"cluster_id": 19, "beer_name": "Ise Kadoya Amber Ale", "brew_factory_name": "Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery", "style": "American Amber / Red Ale", "abv": "4.50 %"}
+{"cluster_id": 19, "beer_name": "Ise Kadoya Amarillo Amber Ale", "brew_factory_name": "Ise Kadoya", "style": "Amber Ale", "abv": ""}
+{"cluster_id": 20, "beer_name": "Barbarian Red Ale", "brew_factory_name": "Cervecer\u00c3a Barbarian", "style": "American Amber / Red Ale", "abv": "6.50 %"}
+{"cluster_id": 20, "beer_name": "Barbarian Red Ale", "brew_factory_name": "Cervecer\u00c3a Barbarian", "style": "Amber Ale", "abv": "6.50 %"}
+{"cluster_id": 21, "beer_name": "Oatmeal Amber Ale", "brew_factory_name": "Ornery Beer Company Public House", "style": "American Amber / Red Ale", "abv": "5.70 %"}
+{"cluster_id": 21, "beer_name": "John Harvards Oatmeal Amber Ale", "brew_factory_name": "John Harvard_s Brewhouse &#40; Corporate Office &#41;", "style": "Amber Ale", "abv": "6.50 %"}
+{"cluster_id": 22, "beer_name": "Vital Infrared Imperial Red", "brew_factory_name": "Vital Brewing", "style": "American Amber / Red Ale", "abv": "9.40 %"}
+{"cluster_id": 22, "beer_name": "Vital Infrared Imperial Red", "brew_factory_name": "Vital Brewing", "style": "American Strong Ale", "abv": "9.40 %"}
+{"cluster_id": 23, "beer_name": "Rip Saw Red", "brew_factory_name": "Pints Brewing Co. .", "style": "American Amber / Red Ale", "abv": "6.50 %"}
+{"cluster_id": 23, "beer_name": "Pints Rip Saw Red", "brew_factory_name": "Pints Brewing Company", "style": "Amber Ale", "abv": "5.90 %"}
+{"cluster_id": 24, "beer_name": "American Red Ale", "brew_factory_name": "Rock Art Brewery", "style": "American Amber / Red Ale", "abv": "4.80 %"}
+{"cluster_id": 24, "beer_name": "Americas American Red Ale", "brew_factory_name": "Americas Brewpub", "style": "Amber Ale", "abv": ""}
+{"cluster_id": 25, "beer_name": "Regimental 80 Scottish Ale", "brew_factory_name": "Crooked Eye Brewery", "style": "American Amber / Red Ale", "abv": "4.70 %"}
+{"cluster_id": 25, "beer_name": "Crooked Eye Regimental 80 Scottish Ale", "brew_factory_name": "Crooked Eye Brewery", "style": "Scottish Ale", "abv": "4.70 %"}
+{"cluster_id": 26, "beer_name": "Dream Of The 90 's", "brew_factory_name": "Prohibition Pig", "style": "American Amber / Red Ale", "abv": "6.10 %"}
+{"cluster_id": 26, "beer_name": "Prohibition Pig Dream of the 90s", "brew_factory_name": "Prohibition Pig", "style": "Amber Ale", "abv": ""}
+{"cluster_id": 27, "beer_name": "Fullers Traitors ' Gate", "brew_factory_name": "Fuller Smith & Turner PLC", "style": "American Amber / Red Ale", "abv": "4.50 %"}
+{"cluster_id": 27, "beer_name": "Fuller_s Traitor_s Gate", "brew_factory_name": "Fuller_s", "style": "Bitter", "abv": "4.50 %"}
+{"cluster_id": 28, "beer_name": "Blarney Rock Irish Ale", "brew_factory_name": "Rockyard Brewing", "style": "American Amber / Red Ale", "abv": "6.00 %"}
+{"cluster_id": 28, "beer_name": "Rockyard Blarney Rock Irish Ale", "brew_factory_name": "Rockyard Brewing Company", "style": "Irish Ale", "abv": ""}
+{"cluster_id": 29, "beer_name": "Shirt Tail Amber", "brew_factory_name": "Iron Hill Brewery & Restaurant", "style": "American Amber / Red Ale", "abv": "4.40 %"}
+{"cluster_id": 29, "beer_name": "Iron Hill Shirt Tail Amber", "brew_factory_name": "Iron Hill Maple Shade", "style": "Amber Ale", "abv": "4.40 %"}
+{"cluster_id": 30, "beer_name": "Fisherman 's Tea Party", "brew_factory_name": "Cape Ann Brewing Company", "style": "American Barleywine", "abv": "9.00 %"}
+{"cluster_id": 30, "beer_name": "Cape Ann Fisherman_s Tea Party", "brew_factory_name": "Cape Ann Brewing Company", "style": "Barley Wine", "abv": "9 %"}
+{"cluster_id": 31, "beer_name": "Insane Mane Red Ale", "brew_factory_name": "White Lion Brewing Company", "style": "American Amber / Red Ale", "abv": "5.10 %"}
+{"cluster_id": 31, "beer_name": "White Lion Insane Mane Red Ale", "brew_factory_name": "Ipswich Ale Brewery", "style": "Amber Ale", "abv": ""}
+{"cluster_id": 32, "beer_name": "Boohai Red Ale", "brew_factory_name": "Crazy Mountain Brewing Company", "style": "American Amber / Red Ale", "abv": "6.00 %"}
+{"cluster_id": 32, "beer_name": "Crazy Mountain Boohai Red Ale &#40; Kura Koa &#41;", "brew_factory_name": "Crazy Mountain Brewing Company", "style": "Amber Ale", "abv": "6 %"}
+{"cluster_id": 33, "beer_name": "Barrel Aged Chessie", "brew_factory_name": "Union Craft Brewing Company", "style": "American Barleywine", "abv": "9.80 %"}
+{"cluster_id": 33, "beer_name": "Union Craft Chessie Barleywine Barrel Aged", "brew_factory_name": "Union Craft Brewing Company", "style": "Barley Wine", "abv": "9.80 %"}
+{"cluster_id": 34, "beer_name": "Trail Ridge Red", "brew_factory_name": "Grand Lake Brewing Company", "style": "American Amber / Red Ale", "abv": "7.50 %"}
+{"cluster_id": 34, "beer_name": "Estes Park Trail Ridge Red", "brew_factory_name": "Estes Park Brewery", "style": "Bitter", "abv": "4.50 %"}
+{"cluster_id": 35, "beer_name": "Summer Session Ale", "brew_factory_name": "Elk Creek Cafe + Aleworks", "style": "American Amber / Red Ale", "abv": "4.20 %"}
+{"cluster_id": 35, "beer_name": "Aqula Summer Session Ale", "brew_factory_name": "Aqula", "style": "English Pale Ale", "abv": "4.50 %"}
+{"cluster_id": 36, "beer_name": "Copperhead Amber Ale", "brew_factory_name": "Yalobusha Brewing Company", "style": "American Amber / Red Ale", "abv": "5.65 %"}
+{"cluster_id": 36, "beer_name": "Yalobusha Copperhead Amber Ale", "brew_factory_name": "Yalobusha Brewing Company", "style": "Amber Ale", "abv": "5.60 %"}
+{"cluster_id": 37, "beer_name": "Dark Horse Amber Ale", "brew_factory_name": "Dark Horse Brewing Company", "style": "American Amber / Red Ale", "abv": "5.50 %"}
+{"cluster_id": 37, "beer_name": "Dark Horse Amber Ale", "brew_factory_name": "Dark Horse Brewing Company", "style": "Amber Ale", "abv": "5.50 %"}
+{"cluster_id": 38, "beer_name": "Strada S. Felice", "brew_factory_name": "Grado Plato", "style": "American Amber / Red Ale", "abv": "8.00 %"}
+{"cluster_id": 38, "beer_name": "Grado Plato Strada S. Felice", "brew_factory_name": "Birrificio Grado Plato", "style": "Spice/Herb/Vegetable", "abv": "8 %"}
+{"cluster_id": 39, "beer_name": "Unite Red Rye Ale", "brew_factory_name": "The Pike Brewing Company", "style": "American Amber / Red Ale", "abv": "4.60 %"}
+{"cluster_id": 39, "beer_name": "Pike Unite Red Rye Ale", "brew_factory_name": "Pike Brewing Company", "style": "Amber Ale", "abv": "4.60 %"}
+{"cluster_id": 40, "beer_name": "Honey Basil Amber", "brew_factory_name": "Rude Hippo Brewing Company", "style": "American Amber / Red Ale", "abv": "7.40 %"}
+{"cluster_id": 40, "beer_name": "Rude Hippo Honey Basil Amber", "brew_factory_name": "18th Street Brewery", "style": "Amber Ale", "abv": "7.40 %"}
+{"cluster_id": 41, "beer_name": "Real McCoy Amber Ale", "brew_factory_name": "Mammoth Brewing Company", "style": "American Amber / Red Ale", "abv": "4.50 %"}
+{"cluster_id": 41, "beer_name": "Mammoth Real McCoy Amber Ale", "brew_factory_name": "Mammoth Brewing Company", "style": "Altbier", "abv": "4.50 %"}
+{"cluster_id": 42, "beer_name": "Jazz Beer Tarraco Amber", "brew_factory_name": "Tarraco Beer", "style": "American Amber / Red Ale", "abv": "6.90 %"}
+{"cluster_id": 42, "beer_name": "Jazz Beer Tarraco Amber", "brew_factory_name": "Ca l_Arenys - Cervezas Guineu", "style": "Amber Ale", "abv": "6.90 %"}
+{"cluster_id": 43, "beer_name": "Arrow Point Amber", "brew_factory_name": "Bainbridge Island Brewing Company", "style": "American Amber / Red Ale", "abv": "5.40 %"}
+{"cluster_id": 43, "beer_name": "Bainbridge Island Arrow Point Amber", "brew_factory_name": "Bainbridge Island Brewing Company", "style": "Amber Ale", "abv": "5.40 %"}
+{"cluster_id": 44, "beer_name": "Amber Waves Ale", "brew_factory_name": "Capitol City Brewing", "style": "American Amber / Red Ale", "abv": "5.40 %"}
+{"cluster_id": 44, "beer_name": "Capitol City Amber Waves Ale", "brew_factory_name": "Capitol City Brewing Company", "style": "Amber Ale", "abv": "5.60 %"}
+{"cluster_id": 45, "beer_name": "Red Rocket Amber Ale", "brew_factory_name": "Third Base Sports Bar & Brewery", "style": "American Amber / Red Ale", "abv": "6.40 %"}
+{"cluster_id": 45, "beer_name": "Third Base Red Rocket Amber Ale", "brew_factory_name": "Third Base Sports Bar & Brewery", "style": "Amber Ale", "abv": "4.60 %"}
+{"cluster_id": 46, "beer_name": "Bushfire American Red", "brew_factory_name": "Granite Falls Brewing Co. .", "style": "American Amber / Red Ale", "abv": "5.00 %"}
+{"cluster_id": 46, "beer_name": "Granite Falls Bushfire American Red Ale", "brew_factory_name": "Granite Falls Brewing Company", "style": "Amber Ale", "abv": "5 %"}
+{"cluster_id": 47, "beer_name": "Legends Of The Bay Giant 's Tomb", "brew_factory_name": "Hockley Valley Brewing Co. .", "style": "American Amber / Red Ale", "abv": "5.00 %"}
+{"cluster_id": 47, "beer_name": "Legends of the Bay Giant_s Tomb", "brew_factory_name": "Hockley Valley Brewing & Malting Company", "style": "Amber Ale", "abv": "5 %"}
+{"cluster_id": 48, "beer_name": "Willoughby American Amber Ale", "brew_factory_name": "Willoughby Brewing", "style": "American Amber / Red Ale", "abv": "4.90 %"}
+{"cluster_id": 48, "beer_name": "Willoughby American Amber Ale", "brew_factory_name": "Willoughby Brewing Co. .", "style": "Amber Ale", "abv": "5.50 %"}
+{"cluster_id": 49, "beer_name": "Heatwave Red Ale", "brew_factory_name": "La Quinta Brewing Co. .", "style": "American Amber / Red Ale", "abv": "6.00 %"}
+{"cluster_id": 49, "beer_name": "La Quinta Brewing Co. . Heatwave Red Ale", "brew_factory_name": "La Quinta Brewing Co. .", "style": "Amber Ale", "abv": "6 %"}
+{"cluster_id": 50, "beer_name": "Thomas Hooker Old Marley Barleywine", "brew_factory_name": "Thomas Hooker Brewing Company", "style": "American Barleywine", "abv": "10.00 %"}
+{"cluster_id": 50, "beer_name": "Thomas Hooker Old Marley Barleywine", "brew_factory_name": "Thomas Hooker Brewing Company", "style": "Barley Wine", "abv": "10 %"}
+{"cluster_id": 51, "beer_name": "Centurion Barleywine Ale", "brew_factory_name": "Golden City Brewery", "style": "American Barleywine", "abv": ""}
+{"cluster_id": 51, "beer_name": "Golden City Centurion Barleywine Ale", "brew_factory_name": "Golden City Brewery", "style": "Barley Wine", "abv": "11.20 %"}
+{"cluster_id": 52, "beer_name": "Red Ale Priprioca", "brew_factory_name": "Cervejaria Amaza ' nia Ltda .", "style": "American Amber / Red Ale", "abv": "6.00 %"}
+{"cluster_id": 52, "beer_name": "Amazon Beer Priprioca Red Ale", "brew_factory_name": "Amazon Beer", "style": "Amber Ale", "abv": "6 %"}
+{"cluster_id": 53, "beer_name": "Big Red Balls", "brew_factory_name": "Hillcrest Brewing Company", "style": "American Amber / Red Ale", "abv": "8.00 %"}
+{"cluster_id": 53, "beer_name": "Hillcrest Big Red Balls", "brew_factory_name": "Hillcrest Brewing Company", "style": "Imperial IPA", "abv": "8 %"}
