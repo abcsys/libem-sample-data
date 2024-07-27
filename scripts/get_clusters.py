@@ -7,6 +7,8 @@ from libem.prepare.datasets import (abt_buy, amazon_google, beer, dblp_acm,
                                     dblp_scholar, fodors_zagats, itunes_amazon, 
                                     walmart_amazon)
 
+home_dir = os.path.join(ds.LIBEM_SAMPLE_DATA_PATH, 'clustering')
+
 dataset_list = {
     'abt-buy': abt_buy,
     'amazon-google': amazon_google,
@@ -31,9 +33,12 @@ datasets = {
     name: read_all(d)
     for name, d in dataset_list.items()
 }
+
+cluster_metadata = {}
+
 for name in datasets.keys():
     cluster_id = 0
-    clusters, added = [], set()
+    clusters, cluster_sizes, added = [], [], set()
     
     for i, p1 in enumerate(datasets[name]):
         if p1['label'] == 0 or i in added:
@@ -59,10 +64,16 @@ for name in datasets.keys():
                 new_cluster.append(c)
         
         clusters.extend(new_cluster)
+        cluster_sizes.append(len(new_cluster))
         cluster_id += 1
+    
+    cluster_metadata[name] = {
+        'size': cluster_id + 1,
+        'dist': dict(sorted(Counter(cluster_sizes).items()))
+    }
 
     # create output folder + file
-    folder = os.path.join(os.path.join(ds.LIBEM_SAMPLE_DATA_PATH, 'clustering'), name)
+    folder = os.path.join(home_dir, name)
     Path(folder).mkdir(parents=True, exist_ok=True)
     
     with open(os.path.join(folder, 'test.ndjson'), 'w') as out:
@@ -73,4 +84,12 @@ for name in datasets.keys():
     file = os.path.join(folder, 'README.md')
     with open(file, 'w') as f:
         f.write("Processed version of the dataset originating from BatchER: https://github.com/fmh1art/batcher.")
-    
+
+# write root README
+file = os.path.join(home_dir, 'README.md')
+with open(file, 'w') as f:
+    f.write("## Clustering Distributions\n")
+    f.write("|dataset name|total number of clusters|number of items in each cluster: number of such clusters|\n")
+    f.write("|---|:-:|---|\n")
+    for name in datasets.keys():
+        f.write(f"|{name}|{cluster_metadata[name]['size']}|{str(cluster_metadata[name]['dist'])[1:-1]}|\n")
