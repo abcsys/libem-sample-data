@@ -146,8 +146,6 @@
 {"cluster_id": 72, "title": "javax.xxl : a prototype for a library of query processing algorithms", "authors": "jochen van den bercken , jens-peter dittrich , bernhard seeger", "venue": "international conference on management of data", "year": "2000"}
 {"cluster_id": 73, "title": "book review column", "authors": "karl aberer", "venue": "sigmod record", "year": "2002"}
 {"cluster_id": 73, "title": "book review column", "authors": "karl aberer", "venue": "acm sigmod record", "year": "2002"}
-{"cluster_id": 73, "title": "book review column", "authors": "karl aberer", "venue": "acm sigmod record", "year": "2002"}
-{"cluster_id": 73, "title": "book review column", "authors": "karl aberer", "venue": "acm sigmod record", "year": "2002"}
 {"cluster_id": 74, "title": "recovery protocols for shared memory database systems", "authors": "lory d. molesky , krithi ramamritham", "venue": "sigmod conference", "year": "1995"}
 {"cluster_id": 74, "title": "recovery protocols for shared memory database systems", "authors": "lory d. molesky , krithi ramamritham", "venue": "international conference on management of data", "year": "1995"}
 {"cluster_id": 75, "title": "loading the data warehouse across various parallel architectures", "authors": "vijay v. raghavan", "venue": "vldb", "year": "1996"}
@@ -570,7 +568,6 @@
 {"cluster_id": 283, "title": "a distributed scientific data archive using the web , xml and sql/med", "authors": "alistair n. dunlop , jasmin l. wason , denis a. nicole , mark papiani", "venue": "sigmod record", "year": "1999"}
 {"cluster_id": 283, "title": "a distributed scientific data archive using the web , xml and sql/med", "authors": "mark papiani , jasmin l. wason , alistair n. dunlop , denis a. nicole", "venue": "acm sigmod record", "year": "1999"}
 {"cluster_id": 284, "title": "book review column", "authors": "karl aberer", "venue": "sigmod record", "year": "2003"}
-{"cluster_id": 284, "title": "book review column", "authors": "karl aberer", "venue": "acm sigmod record", "year": "2003"}
 {"cluster_id": 284, "title": "book review column", "authors": "karl aberer", "venue": "acm sigmod record", "year": "2003"}
 {"cluster_id": 285, "title": "adapting materialized views after redefinitions", "authors": "ashish gupta , inderpal singh mumick , kenneth a. ross", "venue": "sigmod conference", "year": "1995"}
 {"cluster_id": 285, "title": "adapting materialized views after redefinitions", "authors": "ashish gupta , inderpal s. mumick , kenneth a. ross", "venue": "international conference on management of data", "year": "1995"}

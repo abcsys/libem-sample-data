@@ -52,7 +52,13 @@ for name in datasets.keys():
                 added.add(j)
                 cluster.append({'cluster_id': cluster_id, **p2['left']})
 
-        clusters.extend(cluster)
+        # remove duplicate records
+        new_cluster = []
+        for c in cluster:
+            if c not in new_cluster:
+                new_cluster.append(c)
+        
+        clusters.extend(new_cluster)
         cluster_id += 1
 
     # create output folder + file
