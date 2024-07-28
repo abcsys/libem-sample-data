@@ -39,25 +39,44 @@ cluster_metadata = {}
 for name in datasets.keys():
     cluster_id = 0
     clusters, cluster_sizes, added = [], [], set()
+    left_set = set([json.dumps(d['left']) for d in datasets[name]])
+    right_set = set([json.dumps(d['right']) for d in datasets[name]])
     
     for i, p1 in enumerate(datasets[name]):
         if p1['label'] == 0 or i in added:
             continue
         
-        added.add(i)
         cluster = [{'cluster_id': cluster_id, **p1['left']}, 
                    {'cluster_id': cluster_id, **p1['right']}]
+        added.add(i)
+        try:
+            left_set.remove(json.dumps(p1['left']))
+        except KeyError:
+            pass
+        try:
+            right_set.remove(json.dumps(p1['right']))
+        except KeyError:
+            pass
         
+        # find all records with label 1 that match either left or right
         for j, p2 in enumerate(datasets[name]):
             if p2['label'] == 1 and p2['left'] == p1['left'] and i != j:
-                added.add(j)
                 cluster.append({'cluster_id': cluster_id, **p2['right']})
+                added.add(j)
+                try:
+                    right_set.remove(json.dumps(p2['right']))
+                except KeyError:
+                    pass
                 
             elif p2['label'] == 1 and p2['right'] == p1['right'] and i != j:
-                added.add(j)
                 cluster.append({'cluster_id': cluster_id, **p2['left']})
+                added.add(j)
+                try:
+                    left_set.remove(json.dumps(p2['left']))
+                except KeyError:
+                    pass
 
-        # remove duplicate records
+        # remove duplicate records and add to clusters
         new_cluster = []
         for c in cluster:
             if c not in new_cluster:
@@ -66,9 +85,19 @@ for name in datasets.keys():
         clusters.extend(new_cluster)
         cluster_sizes.append(len(new_cluster))
         cluster_id += 1
+        
+    # add everything still in left_set and right_set as cluster size of 1
+    for i in left_set:
+        clusters.append({'cluster_id': cluster_id, **json.loads(i)})
+        cluster_sizes.append(1)
+        cluster_id += 1
+    for i in right_set:
+        clusters.append({'cluster_id': cluster_id, **json.loads(i)})
+        cluster_sizes.append(1)
+        cluster_id += 1
     
     cluster_metadata[name] = {
-        'size': cluster_id + 1,
+        'size': cluster_id,
         'dist': dict(sorted(Counter(cluster_sizes).items()))
     }
 
@@ -83,7 +112,7 @@ for name in datasets.keys():
     # write README
     file = os.path.join(folder, 'README.md')
     with open(file, 'w') as f:
-        f.write("Processed version of the dataset originating from BatchER: https://github.com/fmh1art/batcher.")
+        f.write(f"Processed version of the {name} dataset originating from BatchER: https://github.com/fmh1art/batcher.")
 
 # write root README
 file = os.path.join(home_dir, 'README.md')

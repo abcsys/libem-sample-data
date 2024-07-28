@@ -1,1 +1,1 @@
-Processed version of the dataset originating from BatchER: https://github.com/fmh1art/batcher.
+Processed version of the dblp-acm dataset originating from BatchER: https://github.com/fmh1art/batcher.
